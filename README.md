@@ -1,3 +1,4 @@
 # Quality Assurance Tester
 
-##Education
+## Education
+* Bachelour of Engineering in Transport and Traffic - 240 ECTS - Logistics
