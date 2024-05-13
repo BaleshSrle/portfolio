@@ -1,0 +1,10 @@
+- name: linkedin
+  url-prefix: linkedin.com/in/
+
+- name: github
+  url-prefix: github.com/
+
+- name: email
+  url-scheme: 'mailto:'
+  icon: mail
+  
