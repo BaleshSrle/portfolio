@@ -3,3 +3,7 @@ logo: https://avatars.githubusercontent.com/u/37658865
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+social_links:
+- { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
+- { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+- { platform: telegram,       user_url: "https://t.me/jekyll" }
