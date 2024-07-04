@@ -24,6 +24,7 @@
 
 ### UNDP Project "Dialogue for the future" - Mentioring Platform | _April 2021 - July 2021_
 [Web site](https://www.we-mentoring.com/)
+![UNDP Project "Dialogue for the future"](https://img.shields.io/website?url=https%3A%2F%2Fwe-mentoring.com%2F&logo=angular&logoColor=white&label=we-mentoring%20UNDP&labelColor=0f0f11&cacheSeconds=1800)
 
 ### Govrement of Republic of Srpska - Registration for Business entities | _June 2020 - March 2021_
 [Web site](https://eregistracija.vladars.rs/)
