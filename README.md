@@ -10,7 +10,7 @@
 
 ## Work Experience
 **Quality Assurance Tester | "Prointer ITSS" LLC Banja Luka - Member of Infinity International Group | _May 2020 - March 2023_**
-- Manual testing of Web based applications and services based on the clients demands. Writing test plans & test cases based on documentation and client requirements. Used certain tools for automated testing a certain segments of Web Applications. Logging & reporting bugs to developers via ![Azure DevOps](https://img.shields.io/badge/logo-Azure_DevOps-0078d7?logo=azuredevops&label=&labelColor=555555&logoColor=white) , ![Jira](https://img.shields.io/badge/logo-Jira-0052cc?logo=jira&label=&labelColor=555555&logoColor=white) / ![BitBucket](https://img.shields.io/badge/logo-BitBucket-0052cc?logo=bitbucket&label=&labelColor=555555&logoColor=white)
+- Manual testing of Web based applications and services based on the clients demands. Writing test plans & test cases based on documentation and client requirements. Used certain tools for automated testing a certain segments of Web Applications. Logging & reporting bugs to developers via ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078d7) , ![Jira](https://img.shields.io/badge/logo-Jira-0052cc?logo=jira&label=&labelColor=555555&logoColor=white) / ![BitBucket](https://img.shields.io/badge/logo-BitBucket-0052cc?logo=bitbucket&label=&labelColor=555555&logoColor=white)
 	
 **Quality Assurance Tester (Practicioner) | "Prointer ITSS" LLC Banja Luka - Member of Infinity International Group | _November 2019 - December 2019_**
 - Manual testing of Web based applications, writing test plans / cases based on testing and going through the application, recording & reporting errors to developers, differentiating the bugs from features.
