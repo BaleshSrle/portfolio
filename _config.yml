@@ -3,4 +3,14 @@ logo: https://avatars.githubusercontent.com/u/37658865
 email: srdjan.balesevic@hotmail.com
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimalistic
+#theme: jekyll-theme-minimalistic
+
+plugins:
+ - jekyll-remote-theme
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic 
+
+platforms: 
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://ba.linkedin.com/in/srdjanbaleshevich
