@@ -14,3 +14,7 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://ba.linkedin.com/in/srdjanbaleshevich
+
+  - name: WhatsApp
+    icon: <i class="fa-brands fa-whatsapp"></i>
+    link: https://wa.me/38766340286
