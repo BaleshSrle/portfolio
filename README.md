@@ -19,7 +19,7 @@
 ### Veterinary Information System v2 | _September 2022 - March 2023_
 
 ### Republic of Srpska Inspectorate - e-Inspector & import/export supervision | _June 2021 - September 2022_
-[e-Inspector - Complaints](https://spediter-inspektorat.vladars.net/prijave) • [Import/Export supervision](https://spediter-inspektorat.vladars.net/login)
+[e-Inspector - Complaints](https://spediter-inspektorat.vladars.net/prijave) • [Import/Export supervision](https://spediter-inspektorat.vladars.net/login) • <img src="https://img.shields.io/website?url=https%3A%2F%2Fspediter-inspektorat.vladars.net%2F&logo=angular&logoSize=auto&logoColor=white&label=The%20Republic%20of%20Srpska%20Inspectorate&labelColor=0f0f11&cacheSeconds=1800" alt="The Republic of Srpska Inspectorate" style="vertical-align: middle;">
 
 ### UNDP Project "Dialogue for the future" - Mentioring Platform | _April 2021 - July 2021_
 [Web site](https://www.we-mentoring.com/) • <img src="https://img.shields.io/website?url=https%3A%2F%2Fwe-mentoring.com%2F&logo=angular&logoSize=auto&logoColor=white&label=we-mentoring%20UNDP&labelColor=0f0f11&cacheSeconds=1800" alt="UNDP Project 'Dialogue for the future'" style="vertical-align: middle;">
