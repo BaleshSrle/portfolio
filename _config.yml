@@ -15,6 +15,18 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://ba.linkedin.com/in/srdjanbaleshevich
 
+  - name: Skype
+    icon: <i class="fa-brands fa-skype"></i>
+    link: skype:srdjan.baleshevich?call
+
+  - name: Telegram
+    icon: <i class="fa-brands fa-telegram"></i>
+    link: https://baleshsrle.t.me
+
+  #- name: Viber
+  #  icon: <i class="fa-brands fa-viber"></i>
+  #  link: https://conf.viber.com/vA2f9hXPPZJyXVW4Gw2YDQ
+
   - name: WhatsApp
     icon: <i class="fa-brands fa-whatsapp"></i>
     link: https://wa.me/38766340286
