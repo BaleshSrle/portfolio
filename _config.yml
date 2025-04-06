@@ -7,8 +7,24 @@ email: srdjan.balesevic@hotmail.com
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
+webmaster_verifications:
+  bing: 6605C60582C09EBF05D19C7AA9FF5496
+  bing: 78FE17549C9303A86665F2ECA50117F0
+  google: HcgjQ9u13iaWAG1FyF9yFp6-f9QYrwstKoKPNrRbbqM
+  google: YXXACXsZjuu041kl41yKLww4xdiiudN1S0IEtdEeGSE
+
+social:
+  name: Baleshevich Srdjan
+  links:
+    - https://github.com/baleshsrle
+    - https://www.goodreads.com/baleshsrle
+    - https://www.linkedin.com/in/srdjanbaleshevich
+    - https://baleshsrle.t.me
+    - https://wa.me/38766340286
+
 plugins:
  - jekyll-remote-theme
+ - jekyll-seo-tag
 
 platforms: 
   - name: LinkedIn
