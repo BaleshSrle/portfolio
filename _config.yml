@@ -30,10 +30,14 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://ba.linkedin.com/in/srdjanbaleshevich
+  
+  - name: Messenger
+    icon: <i class="fa-brands fa-facebook-messenger"></i>
+    link: https://m.me/srdjan.balesevic
 
-  - name: Skype
-    icon: <i class="fa-brands fa-skype"></i>
-    link: skype:srdjan.baleshevich?call
+  #- name: Skype
+  #  icon: <i class="fa-brands fa-skype"></i>
+  #  link: skype:srdjan.baleshevich?call
 
   - name: Telegram
     icon: <i class="fa-brands fa-telegram"></i>
