@@ -1,0 +1,12 @@
+---
+---
+
+import "{{site-theme}}";
+
+ul.link li {
+    padding-top: 4px !important;
+}
+
+img[alt="Postman"], img[alt$="DevOps"], img[alt="Jira"], img[alt="BitBucket"], img[alt="Groovy"], img[alt="JavaScript"] , img[alt$="Inspectorate"], img[alt^="UNDP"] {
+    vertical-align: middle !important; 
+}

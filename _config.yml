@@ -27,6 +27,10 @@ plugins:
  - jekyll-seo-tag
 
 platforms: 
+  #- name: Discord
+  #  icon: <i class="fa-brands fa-discord"></i>
+  #  link: https://discord.com/users/952891242574917652
+
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://ba.linkedin.com/in/srdjanbaleshevich
@@ -34,6 +38,10 @@ platforms:
   - name: Messenger
     icon: <i class="fa-brands fa-facebook-messenger"></i>
     link: https://m.me/srdjan.balesevic
+
+  #- name: Signal
+  #  icon: <i class="fa-brands fa-signal-messenger"></i>
+  #  link: skype:srdjan.baleshevich?call
 
   #- name: Skype
   #  icon: <i class="fa-brands fa-skype"></i>
