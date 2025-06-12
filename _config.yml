@@ -28,33 +28,33 @@ plugins:
 
 platforms: 
   #- name: Discord
-  #  icon: <i class="fa-brands fa-discord"></i>
+  #  icon: <i class="fa-brands fa-discord fa-xl"></i>
   #  link: https://discord.com/users/952891242574917652
 
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
+    icon: <i class="fa-brands fa-linkedin fa-xl"></i>
     link: https://ba.linkedin.com/in/srdjanbaleshevich
   
   - name: Messenger
-    icon: <i class="fa-brands fa-facebook-messenger"></i>
+    icon: <i class="fa-brands fa-facebook-messenger fa-xl"></i>
     link: https://m.me/srdjan.balesevic
 
   #- name: Signal
-  #  icon: <i class="fa-brands fa-signal-messenger"></i>
+  #  icon: <i class="fa-brands fa-signal-messenger fa-xl"></i>
   #  link: skype:srdjan.baleshevich?call
 
   #- name: Skype
-  #  icon: <i class="fa-brands fa-skype"></i>
+  #  icon: <i class="fa-brands fa-skype fa-xl"></i>
   #  link: skype:srdjan.baleshevich?call
 
   - name: Telegram
-    icon: <i class="fa-brands fa-telegram"></i>
+    icon: <i class="fa-brands fa-telegram fa-xl"></i>
     link: https://baleshsrle.t.me
 
   #- name: Viber
-  #  icon: <i class="fa-brands fa-viber"></i>
+  #  icon: <i class="fa-brands fa-viber fa-xl"></i>
   #  link: https://conf.viber.com/vA2f9hXPPZJyXVW4Gw2YDQ
 
   - name: WhatsApp
-    icon: <i class="fa-brands fa-whatsapp"></i>
+    icon: <i class="fa-brands fa-whatsapp fa-xl"></i>
     link: https://wa.me/38766340286
