@@ -25,6 +25,7 @@ social:
 plugins:
  - jekyll-remote-theme
  - jekyll-seo-tag
+ - jekyll-target-blank
 
 platforms: 
   #- name: Discord
