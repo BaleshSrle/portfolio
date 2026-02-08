@@ -40,7 +40,7 @@ platforms:
   
   - name: Messenger
   # icon: <i class="fa-brands fa-facebook-messenger fa-xl"></i>
-    icon: messenger
+    icon: simpleicons messenger
     link: https://m.me/srdjan.balesevic
 
   #- name: Signal
@@ -52,7 +52,7 @@ platforms:
   #  link: skype:srdjan.baleshevich?call
 
   - name: Telegram
-    icon: telegram
+    icon: simpleicons telegram
   # icon: <i class="fa-brands fa-telegram fa-xl"></i>
     link: https://baleshsrle.t.me
 
@@ -61,6 +61,6 @@ platforms:
   #  link: https://conf.viber.com/vA2f9hXPPZJyXVW4Gw2YDQ
 
   - name: WhatsApp
-    icon: whatsapp
+    icon: simpleicons whatsapp
   # icon: <i class="fa-brands fa-whatsapp fa-xl"></i>
     link: https://wa.me/38766340286
