@@ -31,7 +31,7 @@ plugins:
 platforms: 
   #- name: Discord
   #  icon: <i class="fa-brands fa-discord fa-xl"></i>
-  #  icon: {% simpleicons discord %}
+  #  icon: discord
   #  link: https://discord.com/users/952891242574917652
 
   - name: LinkedIn
@@ -40,7 +40,7 @@ platforms:
   
   - name: Messenger
   # icon: <i class="fa-brands fa-facebook-messenger fa-xl"></i>
-    icon: {% simpleicons messenger %}
+    icon: messenger
     link: https://m.me/srdjan.balesevic
 
   #- name: Signal
@@ -52,7 +52,7 @@ platforms:
   #  link: skype:srdjan.baleshevich?call
 
   - name: Telegram
-    icon: {% simpleicons telegram %}
+    icon: telegram
   # icon: <i class="fa-brands fa-telegram fa-xl"></i>
     link: https://baleshsrle.t.me
 
@@ -61,6 +61,6 @@ platforms:
   #  link: https://conf.viber.com/vA2f9hXPPZJyXVW4Gw2YDQ
 
   - name: WhatsApp
-    icon: {% simpleicons whatsapp %}
+    icon: whatsapp
   # icon: <i class="fa-brands fa-whatsapp fa-xl"></i>
     link: https://wa.me/38766340286
