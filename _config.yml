@@ -26,10 +26,12 @@ plugins:
  - jekyll-remote-theme
  - jekyll-seo-tag
  - jekyll-target-blank
+ - jekyll-simple-icons
 
 platforms: 
   #- name: Discord
   #  icon: <i class="fa-brands fa-discord fa-xl"></i>
+  #  icon: {% simpleicons discord %}
   #  link: https://discord.com/users/952891242574917652
 
   - name: LinkedIn
@@ -37,7 +39,8 @@ platforms:
     link: https://ba.linkedin.com/in/srdjanbaleshevich
   
   - name: Messenger
-    icon: <i class="fa-brands fa-facebook-messenger fa-xl"></i>
+  # icon: <i class="fa-brands fa-facebook-messenger fa-xl"></i>
+    icon: {% simpleicons messenger %}
     link: https://m.me/srdjan.balesevic
 
   #- name: Signal
@@ -49,7 +52,8 @@ platforms:
   #  link: skype:srdjan.baleshevich?call
 
   - name: Telegram
-    icon: <i class="fa-brands fa-telegram fa-xl"></i>
+    icon: {% simpleicons telegram %}
+  # icon: <i class="fa-brands fa-telegram fa-xl"></i>
     link: https://baleshsrle.t.me
 
   #- name: Viber
@@ -57,5 +61,6 @@ platforms:
   #  link: https://conf.viber.com/vA2f9hXPPZJyXVW4Gw2YDQ
 
   - name: WhatsApp
-    icon: <i class="fa-brands fa-whatsapp fa-xl"></i>
+    icon: {% simpleicons whatsapp %}
+  # icon: <i class="fa-brands fa-whatsapp fa-xl"></i>
     link: https://wa.me/38766340286
